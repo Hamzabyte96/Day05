@@ -3,7 +3,7 @@ function main() {
   var myVerb = "ran ";
   var myAdjective = "big ";
   var myAdverb = "quickly.";
-  var wordBlanks = "My little " + myNoun + myVerb + "fast but your " + myAdjective + "dog is " + myAdverb;
+  var wordBlanks = "My little " + myNoun + myVerb + "fast but your " + myAdjective + "dog reacted " + myAdverb;
 
   return wordBlanks;
 }
